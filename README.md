@@ -1,8 +1,9 @@
 # AI Startup Builder 🚀
 
 A multi-agent Streamlit app powered by CrewAI and Meta LLaMA 3. Enter an industry and watch six specialized agents collaborate to produce a complete startup plan, including idea generation, market research, product roadmap, tech architecture, landing page HTML and an investor pitch.
+## Demo
 
-![Architecture](assets/architecture.png)
+![Demo](assets/image.png)
 
 ---
 
