@@ -1,6 +1,10 @@
+import sys
+import os
 import streamlit as st
 import time
 from datetime import datetime
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
