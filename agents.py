@@ -1,9 +1,14 @@
+<<<<<<< HEAD
 from dotenv import load_dotenv
 
 from crewai import Agent
 
 load_dotenv()
 
+=======
+from crewai import Agent
+
+>>>>>>> d8bf2db9bdae06c9a798df4908cc7024ad9e6f91
 MODEL = "huggingface/meta-llama/Meta-Llama-3-8B-Instruct"
 
 ceo = Agent(
