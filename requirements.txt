@@ -1,0 +1,7 @@
+streamlit
+crewai
+langchain
+langchain-community
+huggingface-hub
+python-dotenv
+# ollama is optional and can be added if using Ollama LLM support
